@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS Indra</string>
+    <string name="move_activity">mulai</string>
+    <string name="move_with_data">tentang</string>
+    <string name="this_ismove_activity">menu utama</string>
+    <string name="go_return">kembali</string>
+</resources>
